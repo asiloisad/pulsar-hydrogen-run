@@ -2,7 +2,7 @@
   "main": "./lib/main",
   "name": "hydrogen-run",
   "description": "The package extends the available methods to computing with hydrogen",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "python",
     "bacadra",
