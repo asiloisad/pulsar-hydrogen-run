@@ -1,12 +1,12 @@
 {
   "main": "./lib/main",
   "name": "hydrogen-run",
-  "description": "The package extends the available methods to computing with hydrogen",
+  "description": "The package extends the available methods to computing with hydrogen for Atom IDE",
   "version": "0.1.5",
   "keywords": [
-    "python",
     "bacadra",
     "hydrogen",
+    "python",
     "run"
   ],
   "homepage": "https://github.com/bacadra/hydrogen-run",
