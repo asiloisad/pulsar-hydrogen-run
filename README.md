@@ -18,6 +18,8 @@ Explanation of new concepts:
 * `recalculate` -- clear result + restart kernel + run calculation
 * `inline` -- computing go one breakpoint after one (instead of pushing all text to python interpreter instatly), this way you got result next to breakpoints. Inline methods inherit all limitations of hydrogen package, e.g. in python scope breakpoint need to be extend for full statment, but it's not.
 
+![inline-gif](ppt-1.gif)
+
 ## Keymap
 
 The important is package introduce complete keymap to use hydrogen. All shortcuts are defined in `atom-text-editor:not([mini])` scope.
