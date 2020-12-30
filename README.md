@@ -63,7 +63,7 @@ The important is package introduce complete keymap to use hydrogen. All shortcut
 'f9'          : 'hydrogen:toggle-inspector'
 ```
 
-## See my another packages...
+# See also
 
 * [bacadra-atom](https://github.com/bacadra/bacadra-atom)
 * [bib-finder](https://github.com/bacadra/bib-finder)
