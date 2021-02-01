@@ -16,15 +16,13 @@ The package extends the available methods to computing with [hydrogen](https://a
 Explanation of new concepts:
 
 * `recalculate` -- clear result + restart kernel + run calculation
-* `inline` -- computing go one breakpoint after one (instead of pushing all text to python interpreter instatly), this way you got result next to breakpoints. Inline methods inherit all limitations of hydrogen package, e.g. in python scope breakpoint need to be extend for full statment, but it's not.
+* `inline` -- computing go one breakpoint after one (instead of pushing all text to python interpreter instantly), this way you got result next to breakpoints. Inline methods inherit all limitations of hydrogen package, e.g. in python the block `if ... else ...` need to be extended, but it's not.
 
-![inline-gif](ppt-1.gif)
+  ![inline-gif](ppt-1.gif)
 
-## Keymap
 
-The important is package introduce complete keymap to use hydrogen. All shortcuts are defined in `atom-text-editor:not([mini])` scope.
+## Run/recalculate all/above text
 
-* run/recalculate all/above text
 ```
 'f5'          : 'hydrogen:run-all'
 'alt-f5'      : 'hydrogen-run:recalculate-all'
@@ -32,7 +30,9 @@ The important is package introduce complete keymap to use hydrogen. All shortcut
 'ctrl-f5'     : 'hydrogen-run:recalculate-all-above'
 ```
 
-* inline run/recalculate all/above text
+
+## Inline run/recalculate all/above text
+
 ```
 'f6'          : 'hydrogen-run:run-all-inline'
 'alt-f6'      : 'hydrogen-run:recalculate-all-inline'
@@ -40,38 +40,29 @@ The important is package introduce complete keymap to use hydrogen. All shortcut
 'ctrl-f6'     : 'hydrogen-run:recalculate-all-above-inline'
 ```
 
-* run breakpoint/cell + clear/interrupt
+
+## Run breakpoint/cell + clear/interrupt
+
 ```
 'f7'          : 'hydrogen:run'
 'ctrl-f7'     : 'hydrogen:run-cell'
-
 'alt-f7'      : 'hydrogen:clear-results'
 'shift-f7'    : 'hydrogen:interrupt-kernel'
 ```
 
-* run breakpoint/cell and move down + restart/shutdown
+
+## Run breakpoint/cell and move down + restart/shutdown
+
 ```
 'f8'          : 'hydrogen:run-and-move-down'
 'ctrl-f8'     : 'hydrogen:run-cell-and-move-down'
-
 'alt-f8'      : 'hydrogen-run:clear-and-restart'
 'shift-f8'    : 'hydrogen:shutdown-kernel'
 ```
 
-* additional
+
+## Additional
+
 ```
 'f9'          : 'hydrogen:toggle-inspector'
 ```
-
-# See also
-
-* [bacadra-atom](https://github.com/bacadra/bacadra-atom)
-* [bib-finder](https://github.com/bacadra/bib-finder)
-* [fold-section](https://github.com/bacadra/fold-section)
-* [hydrogen-run](https://github.com/bacadra/hydrogen-run)
-* [image-paste](https://github.com/bacadra/image-paste)
-* [language-bacadra](https://github.com/bacadra/language-bacadra)
-* [language-sofistik](https://github.com/bacadra/language-sofistik)
-* [navigation-pane](https://github.com/bacadra/navigation-pane)
-* [sofistik-atom](https://github.com/bacadra/sofistik-atom)
-* [word-map](https://github.com/bacadra/word-map)
