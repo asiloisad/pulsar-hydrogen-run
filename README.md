@@ -18,7 +18,7 @@ Explanation of new concepts:
 * `recalculate` -- clear result + restart kernel + run calculation
 * `inline` -- computing go one breakpoint after one (instead of pushing all text to python interpreter instantly), this way you got result next to breakpoints. Inline methods inherit all limitations of hydrogen package, e.g. in python the block `if ... else ...` need to be extended, but it's not.
 
-  ![inline-gif](ppt-1.gif)
+  ![inline-gif](https://github.com/bacadra/hydrogen-run/blob/master/ppt-1.gif?raw=true)
 
 
 ## Run/recalculate all/above text
