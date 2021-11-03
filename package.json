@@ -2,7 +2,7 @@
   "main": "./lib/main",
   "name": "hydrogen-run",
   "description": "The package extends the available methods to computing with hydrogen",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "keywords": [
     "bacadra",
     "hydrogen",
@@ -15,7 +15,7 @@
   "license": "GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007",
   "package-deps": [
     {
-        "name": "hydrogen"
+      "name": "hydrogen"
     }
   ]
 }
