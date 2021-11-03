@@ -11,7 +11,7 @@
   'ctrl-f6'     : 'hydrogen-run:recalculate-all-above-inline'
   'f7'          : 'hydrogen:run'
   'ctrl-f7'     : 'hydrogen:run-cell'
-  'alt-f7'      : 'hydrogen:clear-results'
+  'alt-f7'      : 'hydrogen-run:clear-and-center'
   'shift-f7'    : 'hydrogen:interrupt-kernel'
   'f8'          : 'hydrogen:run-and-move-down'
   'ctrl-f8'     : 'hydrogen:run-cell-and-move-down'

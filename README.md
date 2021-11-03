@@ -26,7 +26,7 @@ The commands have been assigned to the function keys `F5` through `F9` with opti
 | `ctrl-f6` | `hydrogen-run:recalculate-all-above-inline` | clear results, reset kernel and push above text in multiple runs  |
 | `f7`      | `hydrogen:run` | run single statement in single run |
 | `ctrl-f7` | `hydrogen:run-cell` | run cell in single run |
-| `alt-f7`  | `hydrogen:clear-results` | clear results |
+| `alt-f7`  | `hydrogen:clear-and-center` | clear results and scroll text editor to cursor |
 | `shift-f7`| `hydrogen:interrupt-kernel` | interrupt kernel |
 | `f8`      | `hydrogen:run-and-move-down` | run single statement and go to next statement |
 | `ctrl-f8` | `hydrogen:run-cell-and-move-down` | run single cell and go to next cell |
