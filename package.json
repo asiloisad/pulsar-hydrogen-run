@@ -12,7 +12,7 @@
   "homepage": "https://github.com/bacadra/atom-hydrogen-run",
   "url": "https://github.com/bacadra/atom-hydrogen-run",
   "repository": "https://github.com/bacadra/atom-hydrogen-run",
-  "license": "GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007",
+  "license": "GPL-3.0-or-later",
   "package-deps": [
     {
       "name": "hydrogen"
