@@ -6,11 +6,15 @@ The package extends the available methods to computing with [hydrogen](https://g
 
 ## Installation
 
-After the announcement of Atoms sunset, the official [Atom packages store](https://atom.io/packages) isn't respond properly, so latest version of this package cannot be downloaded there. To get latest version run the shell command
+The official [Atom packages store](https://atom.io/packages) has been disabled. To get latest version run the shell command
 
     apm install bacadra/atom-hydrogen-run
 
-and obtain the package directly from Github repository. Please note that package will occur in `Settings/Packages/Git Packages` instead of `Community Packages`.
+and obtain the package directly from Github repository.
+
+The package has compability with [Pulsar](https://pulsar-edit.dev/) and can be install
+
+    pulsar -p install bacadra/atom-hydrogen-run
 
 ## New concepts
 
@@ -45,9 +49,9 @@ The commands have been assigned to the function keys with optional modifier keys
 
 # Contributing
 
-If you have ideas on how to improve the package, see bugs or want to support new features, feel free to share them via GitHub.
+If you have ideas on how to improve the package, see bugs or want to support new features - feel free to share it via GitHub.
 
-See my other packages dedicated to Atom Editor:
+See my other packages for Atom Editor:
 
 * [autocomplete-sofistik](https://github.com/bacadra/atom-autocomplete-sofistik)
 * [bib-finder](https://github.com/bacadra/atom-bib-finder)
