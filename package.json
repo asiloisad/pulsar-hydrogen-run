@@ -12,7 +12,7 @@
   "homepage": "https://github.com/bacadra/atom-hydrogen-run",
   "url": "https://github.com/bacadra/atom-hydrogen-run",
   "repository": "https://github.com/bacadra/atom-hydrogen-run",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "package-deps": [
     {
       "name": "hydrogen"

@@ -1,5 +1,10 @@
 # hydrogen-run
 
+![Tag](https://img.shields.io/github/v/tag/bacadra/atom-hydrogen-run?style=for-the-badge)
+![LastCommit](https://img.shields.io/github/last-commit/bacadra/atom-hydrogen-run?style=for-the-badge)
+![RepoSize](https://img.shields.io/github/repo-size/bacadra/atom-hydrogen-run?style=for-the-badge)
+![Licence](https://img.shields.io/github/license/bacadra/atom-hydrogen-run?style=for-the-badge)
+
 ![hydrogen-run](https://github.com/bacadra/hydrogen-run/blob/master/assets/hydrogen-run.gif?raw=true)
 
 The package extends the available methods to computing with [hydrogen](https://github.com/nteract/hydrogen).
