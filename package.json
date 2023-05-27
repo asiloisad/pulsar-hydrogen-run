@@ -1,7 +1,7 @@
 {
   "main": "./lib/main",
   "name": "hydrogen-run",
-  "description": "The package extends the available methods to computing with hydrogen",
+  "description": "Additional methods of hydrogen",
   "version": "0.1.18",
   "keywords": [
     "bacadra",
@@ -17,5 +17,12 @@
     {
       "name": "hydrogen"
     }
-  ]
+  ],
+  "consumedServices": {
+    "hydrogen.provider": {
+      "versions": {
+        "^1.0.0": "consumeHydrogen"
+      }
+    }
+  }
 }
