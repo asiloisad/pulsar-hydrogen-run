@@ -1,17 +1,17 @@
 # hydrogen-run
 
 <p align="center">
-  <a href="https://github.com/bacadra/atom-hydrogen-run/tags">
-  <img src="https://img.shields.io/github/v/tag/bacadra/atom-hydrogen-run?style=for-the-badge&label=Latest&color=blue" alt="Latest">
+  <a href="https://github.com/bacadra/pulsar-hydrogen-run/tags">
+  <img src="https://img.shields.io/github/v/tag/bacadra/pulsar-hydrogen-run?style=for-the-badge&label=Latest&color=blue" alt="Latest">
   </a>
-  <a href="https://github.com/bacadra/atom-hydrogen-run/issues">
-  <img src="https://img.shields.io/github/issues-raw/bacadra/atom-hydrogen-run?style=for-the-badge&color=blue" alt="OpenIssues">
+  <a href="https://github.com/bacadra/pulsar-hydrogen-run/issues">
+  <img src="https://img.shields.io/github/issues-raw/bacadra/pulsar-hydrogen-run?style=for-the-badge&color=blue" alt="OpenIssues">
   </a>
-  <a href="https://github.com/bacadra/atom-hydrogen-run/blob/master/package.json">
-  <img src="https://img.shields.io/github/languages/top/bacadra/atom-hydrogen-run?style=for-the-badge&color=blue" alt="Language">
+  <a href="https://github.com/bacadra/pulsar-hydrogen-run/blob/master/package.json">
+  <img src="https://img.shields.io/github/languages/top/bacadra/pulsar-hydrogen-run?style=for-the-badge&color=blue" alt="Language">
   </a>
-  <a href="https://github.com/bacadra/atom-hydrogen-run/blob/master/LICENSE">
-  <img src="https://img.shields.io/github/license/bacadra/atom-hydrogen-run?style=for-the-badge&color=blue" alt="Licence">
+  <a href="https://github.com/bacadra/pulsar-hydrogen-run/blob/master/LICENSE">
+  <img src="https://img.shields.io/github/license/bacadra/pulsar-hydrogen-run?style=for-the-badge&color=blue" alt="Licence">
   </a>
 </p>
 
@@ -21,25 +21,9 @@ The package extends the available methods to computing with [hydrogen](https://g
 
 ## Installation
 
-### Atom Text Editor
+To install `hydrogen-run` search for [hydrogen-run](https://web.pulsar-edit.dev/packages/hydrogen-run) in the Install pane of the Pulsar settings or run `ppm install hydrogen-run`.
 
-The official Atom packages store has been [disabled](https://github.blog/2022-06-08-sunsetting-atom/). To obtain the latest version, please run the following shell command:
-
-```shell
-apm install bacadra/atom-hydrogen-run
-```
-
-This will allow you to directly download the package from the GitHub repository.
-
-### Pulsar Text Editor
-
-The package is compatible with [Pulsar](https://pulsar-edit.dev/) and can be installed using the following command:
-
-```shell
-ppm install bacadra/atom-hydrogen-run
-```
-
-Alternatively, you can directly install [hydrogen-run](https://web.pulsar-edit.dev/packages/hydrogen-run) from the Pulsar package store.
+Alternatively, run `ppm install bacadra/pulsar-hydrogen-run` to install a package directly from Github repository.
 
 ## New concepts
 
