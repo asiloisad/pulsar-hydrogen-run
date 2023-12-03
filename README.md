@@ -21,9 +21,7 @@ The package extends the available methods to computing with [hydrogen](https://g
 
 ## Installation
 
-To install `hydrogen-run` search for [hydrogen-run](https://web.pulsar-edit.dev/packages/hydrogen-run) in the Install pane of the Pulsar settings or run `ppm install hydrogen-run`.
-
-Alternatively, you can run `ppm install bacadra/pulsar-hydrogen-run` to install a package directly from the Github repository.
+To install `hydrogen-run` search for [hydrogen-run](https://web.pulsar-edit.dev/packages/hydrogen-run) in the Install pane of the Pulsar settings or run `ppm install hydrogen-run`. Alternatively, you can run `ppm install bacadra/pulsar-hydrogen-run` to install a package directly from the Github repository.
 
 ## New concepts
 
