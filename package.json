@@ -2,7 +2,7 @@
   "main": "./lib/main",
   "name": "hydrogen-run",
   "description": "Additional methods of hydrogen",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "keywords": [
     "bacadra",
     "hydrogen",
@@ -11,7 +11,7 @@
   ],
   "engines": {
     "atom": ">=1.100.0 <2.0.0"
-  },  
+  },
   "homepage": "https://github.com/bacadra/pulsar-hydrogen-run",
   "url": "https://github.com/bacadra/pulsar-hydrogen-run",
   "repository": "https://github.com/bacadra/pulsar-hydrogen-run",
