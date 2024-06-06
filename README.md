@@ -1,20 +1,5 @@
 # hydrogen-run
 
-<p align="center">
-  <a href="https://github.com/bacadra/pulsar-hydrogen-run/tags">
-  <img src="https://img.shields.io/github/v/tag/bacadra/pulsar-hydrogen-run?style=for-the-badge&label=Latest&color=blue" alt="Latest">
-  </a>
-  <a href="https://github.com/bacadra/pulsar-hydrogen-run/issues">
-  <img src="https://img.shields.io/github/issues-raw/bacadra/pulsar-hydrogen-run?style=for-the-badge&color=blue" alt="OpenIssues">
-  </a>
-  <a href="https://github.com/bacadra/pulsar-hydrogen-run/blob/master/package.json">
-  <img src="https://img.shields.io/github/languages/top/bacadra/pulsar-hydrogen-run?style=for-the-badge&color=blue" alt="Language">
-  </a>
-  <a href="https://github.com/bacadra/pulsar-hydrogen-run/blob/master/LICENSE">
-  <img src="https://img.shields.io/github/license/bacadra/pulsar-hydrogen-run?style=for-the-badge&color=blue" alt="Licence">
-  </a>
-</p>
-
 ![hydrogen-run](https://github.com/bacadra/hydrogen-run/blob/master/assets/hydrogen-run.gif?raw=true)
 
 The package extends the available methods to computing with [hydrogen](https://github.com/nteract/hydrogen).
@@ -27,8 +12,8 @@ To install `hydrogen-run` search for [hydrogen-run](https://web.pulsar-edit.dev/
 
 The package introduce two new concepts of evaluation:
 
-* `recalculate`: clear result + restart kernel + run calculation,
-* `inline`: computing go one breakpoint after one (instead of pushing all text to python interpreter instantly), this way you got result next to breakpoints. Inline methods inherit all limitations of hydrogen package, e.g. in python the block `if ... else ...` need to be extended, but it's not.
+- `recalculate`: clear result + restart kernel + run calculation,
+- `inline`: computing go one breakpoint after one (instead of pushing all text to python interpreter instantly), this way you got result next to breakpoints. Inline methods inherit all limitations of hydrogen package, e.g. in python the block `if ... else ...` need to be extended, but it's not.
 
 ## List of commands
 
@@ -54,6 +39,6 @@ The commands have been assigned to the function keys with optional modifier keys
 | <div style="white-space:nowrap">`Shift-F8`</div> | <div style="white-space:nowrap">`hydrogen:shutdown-kernel`                 </div> | shutdown kernel |
 | <div style="white-space:nowrap">`F9`      </div> | <div style="white-space:nowrap">`hydrogen:toggle-inspector`                </div> | toggle inspector pane |
 
-# Contributing [🍺](https://www.buymeacoffee.com/asiloisad)
+# Contributing
 
 If you have any ideas on how to improve the package, spot any bugs, or would like to support the development of new features, please feel free to share them via GitHub.
