@@ -1,6 +1,6 @@
 # hydrogen-run
 
-The package extends the available methods to computing with [hydrogen](https://github.com/nteract/hydrogen).
+A superset of commands to improve [hydrogen](https://github.com/nteract/hydrogen) workflow.
 
 ![demo](https://github.com/bacadra/hydrogen-run/blob/master/assets/demo.gif?raw=true)
 
@@ -12,8 +12,8 @@ To install `hydrogen-run` search for [hydrogen-run](https://web.pulsar-edit.dev/
 
 The package introduce two new concepts of evaluation:
 
-- `recalculate`: clear result + restart kernel + run calculation,
-- `inline`: computing go one breakpoint after one (instead of pushing all text to python interpreter instantly), this way you got result next to breakpoints. Inline methods inherit all limitations of hydrogen package, e.g. in python the block `if ... else ...` need to be extended, but it's not.
+- `recalculate`: clear result -> restart kernel -> run calculation,
+- `inline`: calculation is going one breakpoint after one instead of pushing all text to python interpreter instantly. This way you got result next to breakpoints. Inline methods inherit all limitations of hydrogen package, e.g. in Python `if ... else ...` is broken.
 
 ## List of commands
 
