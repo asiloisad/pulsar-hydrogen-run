@@ -1,8 +1,8 @@
 # hydrogen-run
 
-![hydrogen-run](https://github.com/bacadra/hydrogen-run/blob/master/assets/hydrogen-run.gif?raw=true)
-
 The package extends the available methods to computing with [hydrogen](https://github.com/nteract/hydrogen).
+
+![demo](https://github.com/bacadra/hydrogen-run/blob/master/assets/demo.gif?raw=true)
 
 ## Installation
 
@@ -41,4 +41,4 @@ The commands have been assigned to the function keys with optional modifier keys
 
 # Contributing
 
-If you have any ideas on how to improve the package, spot any bugs, or would like to support the development of new features, please feel free to share them via GitHub.
+Got ideas to make this package better, found a bug, or want to help add new features? Just drop your thoughts on GitHub — any feedback’s welcome!
