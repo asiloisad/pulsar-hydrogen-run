@@ -1,26 +1,19 @@
 {
-  "main": "./lib/main",
   "name": "hydrogen-run",
   "description": "A superset of commands to improve hydrogen workflow",
-  "version": "0.1.22",
+  "repository": "https://github.com/bacadra/pulsar-hydrogen-run",
   "keywords": [
     "bacadra",
     "hydrogen",
     "python",
     "run"
   ],
+  "version": "0.1.22",
+  "license": "MIT",
+  "main": "./lib/main",
   "engines": {
     "atom": ">=1.100.0 <2.0.0"
   },
-  "homepage": "https://github.com/bacadra/pulsar-hydrogen-run",
-  "url": "https://github.com/bacadra/pulsar-hydrogen-run",
-  "repository": "https://github.com/bacadra/pulsar-hydrogen-run",
-  "license": "MIT",
-  "package-deps": [
-    {
-      "name": "hydrogen"
-    }
-  ],
   "consumedServices": {
     "hydrogen.provider": {
       "versions": {
