@@ -3,7 +3,6 @@
   "description": "A superset of commands to improve hydrogen workflow",
   "repository": "https://github.com/bacadra/pulsar-hydrogen-run",
   "keywords": [
-    "bacadra",
     "hydrogen",
     "python",
     "run"
