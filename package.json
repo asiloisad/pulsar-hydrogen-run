@@ -1,7 +1,7 @@
 {
   "name": "hydrogen-run",
   "description": "A superset of commands to improve hydrogen workflow",
-  "repository": "https://github.com/bacadra/pulsar-hydrogen-run",
+  "repository": "https://github.com/asiloisad/pulsar-hydrogen-run",
   "keywords": [
     "hydrogen",
     "python",

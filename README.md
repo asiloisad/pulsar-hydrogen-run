@@ -2,11 +2,11 @@
 
 A superset of commands to improve [hydrogen](https://github.com/nteract/hydrogen) workflow.
 
-![demo](https://github.com/bacadra/hydrogen-run/blob/master/assets/demo.gif?raw=true)
+![demo](https://github.com/asiloisad/hydrogen-run/blob/master/assets/demo.gif?raw=true)
 
 ## Installation
 
-To install `hydrogen-run` search for [hydrogen-run](https://web.pulsar-edit.dev/packages/hydrogen-run) in the Install pane of the Pulsar settings or run `ppm install hydrogen-run`. Alternatively, you can run `ppm install bacadra/pulsar-hydrogen-run` to install a package directly from the Github repository.
+To install `hydrogen-run` search for [hydrogen-run](https://web.pulsar-edit.dev/packages/hydrogen-run) in the Install pane of the Pulsar settings or run `ppm install hydrogen-run`. Alternatively, you can run `ppm install asiloisad/pulsar-hydrogen-run` to install a package directly from the Github repository.
 
 ## New concepts
 
