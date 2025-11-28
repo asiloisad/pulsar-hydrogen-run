@@ -1,8 +1,9 @@
 # hydrogen-run
 
-A superset of commands to improve [hydrogen](https://github.com/nteract/hydrogen) workflow.
+> [!WARNING]
+> This package is archived. Please use [hydrogen-next](https://github.com/asiloisad/pulsar-hydrogen-next) and [jupyter-next](https://github.com/asiloisad/pulsar-jupyter-next) instead.
 
-Please note that [hydrogen-next](https://github.com/asiloisad/pulsar-hydrogen-next) has integrated this package functionality already.
+A superset of commands to improve [hydrogen](https://github.com/nteract/hydrogen) workflow.
 
 ![demo](https://github.com/asiloisad/hydrogen-run/blob/master/assets/demo.gif?raw=true)
 
