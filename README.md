@@ -2,9 +2,9 @@
 
 A superset of commands to improve [hydrogen](https://github.com/nteract/hydrogen) workflow.
 
-Please note that [hydrogen-next](https://github.com/asiloisad/pulsar-hydrogen-next) has integrated this package functionality already.
-
 ![demo](https://github.com/asiloisad/hydrogen-run/blob/master/assets/demo.gif?raw=true)
+
+Consider to use [hydrogen-next](https://github.com/asiloisad/pulsar-hydrogen-next) or [jupyter-next](https://github.com/asiloisad/pulsar-jupyter-next) instead.
 
 ## Installation
 
