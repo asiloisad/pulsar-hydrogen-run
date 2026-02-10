@@ -1,0 +1,23 @@
+'menu': [
+  {
+    label: 'Packages'
+    submenu: [
+      {
+        label: 'Hydrogen Run'
+        submenu: [
+          { label: 'Clear and Restart', command: 'hydrogen-run:clear-and-restart' }
+          { label: 'Clear and Center', command: 'hydrogen-run:clear-and-center' }
+          { type: 'separator' }
+          { label: 'Recalculate All', command: 'hydrogen-run:recalculate-all' }
+          { label: 'Recalculate All Above', command: 'hydrogen-run:recalculate-all-above' }
+          { type: 'separator' }
+          { label: 'Run All Inline', command: 'hydrogen-run:run-all-inline' }
+          { label: 'Recalculate All Inline', command: 'hydrogen-run:recalculate-all-inline' }
+          { label: 'Run All Above Inline', command: 'hydrogen-run:run-all-above-inline' }
+          { label: 'Run All Below Inline', command: 'hydrogen-run:run-all-below-inline' }
+          { label: 'Recalculate All Above Inline', command: 'hydrogen-run:recalculate-all-above-inline' }
+        ]
+      }
+    ]
+  }
+]
