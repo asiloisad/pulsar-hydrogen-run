@@ -2,7 +2,7 @@
 
 A superset of commands to improve hydrogen workflow.
 
-![demo](https://github.com/asiloisad/hydrogen-run/blob/master/assets/demo.gif?raw=true)
+![demo](https://github.com/asiloisad/pulsar-hydrogen-run/blob/master/assets/demo.gif?raw=true)
 
 Consider to use [hydrogen-next](https://github.com/asiloisad/pulsar-hydrogen-next) or [jupyter-next](https://github.com/asiloisad/pulsar-jupyter-next) instead.
 
