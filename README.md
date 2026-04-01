@@ -23,23 +23,23 @@ The package introduce two new concepts of evaluation:
 
 Commands available in `atom-text-editor:not([mini])`:
 
-- `hydrogen:run-all`: (`F5`) push all text in single run,
-- `hydrogen-run:recalculate-all`: (`Alt+F5`) clear results, reset kernel and push all text in single run,
-- `hydrogen:run-all-above`: (`Shift+F5`) push above text in single run,
-- `hydrogen-run:recalculate-all-above`: (`Ctrl+F5`) clear results, reset kernel and push above text in single run,
-- `hydrogen-run:run-all-inline`: (`F6`) push all text in multiple runs,
-- `hydrogen-run:recalculate-all-inline`: (`Alt+F6`) clear results, reset kernel and push all text in multiple runs,
-- `hydrogen-run:run-all-above-inline`: (`Shift+F6`) push above text in multiple runs,
-- `hydrogen-run:recalculate-all-above-inline`: (`Ctrl+F6`) clear results, reset kernel and push above text in multiple runs,
-- `hydrogen:run`: (`F7`) run single statement in single run,
-- `hydrogen:run-cell`: (`Ctrl+F7`) run cell in single run,
-- `hydrogen:clear-and-center`: (`Alt+F7`) clear results and scroll text editor to cursor,
-- `hydrogen:interrupt-kernel`: (`Shift+F7`) interrupt kernel,
-- `hydrogen:run-and-move-down`: (`F8`) run single statement and go to next statement,
-- `hydrogen:run-cell-and-move-down`: (`Ctrl+F8`) run single cell and go to next cell,
-- `hydrogen-run:clear-and-restart`: (`Alt+F8`) clear results and restart kernel,
-- `hydrogen:shutdown-kernel`: (`Shift+F8`) shutdown kernel,
-- `hydrogen:toggle-inspector`: (`F9`) toggle inspector pane.
+- `hydrogen:run-all`: <kbd>F5</kbd> push all text in single run,
+- `hydrogen-run:recalculate-all`: <kbd>Alt+F5</kbd> clear results, reset kernel and push all text in single run,
+- `hydrogen:run-all-above`: <kbd>Shift+F5</kbd> push above text in single run,
+- `hydrogen-run:recalculate-all-above`: <kbd>Ctrl+F5</kbd> clear results, reset kernel and push above text in single run,
+- `hydrogen-run:run-all-inline`: <kbd>F6</kbd> push all text in multiple runs,
+- `hydrogen-run:recalculate-all-inline`: <kbd>Alt+F6</kbd> clear results, reset kernel and push all text in multiple runs,
+- `hydrogen-run:run-all-above-inline`: <kbd>Shift+F6</kbd> push above text in multiple runs,
+- `hydrogen-run:recalculate-all-above-inline`: <kbd>Ctrl+F6</kbd> clear results, reset kernel and push above text in multiple runs,
+- `hydrogen:run`: <kbd>F7</kbd> run single statement in single run,
+- `hydrogen:run-cell`: <kbd>Ctrl+F7</kbd> run cell in single run,
+- `hydrogen:clear-and-center`: <kbd>Alt+F7</kbd> clear results and scroll text editor to cursor,
+- `hydrogen:interrupt-kernel`: <kbd>Shift+F7</kbd> interrupt kernel,
+- `hydrogen:run-and-move-down`: <kbd>F8</kbd> run single statement and go to next statement,
+- `hydrogen:run-cell-and-move-down`: <kbd>Ctrl+F8</kbd> run single cell and go to next cell,
+- `hydrogen-run:clear-and-restart`: <kbd>Alt+F8</kbd> clear results and restart kernel,
+- `hydrogen:shutdown-kernel`: <kbd>Shift+F8</kbd> shutdown kernel,
+- `hydrogen:toggle-inspector`: <kbd>F9</kbd> toggle inspector pane.
 
 ## Contributing
 
